@@ -1,0 +1,11 @@
+.title {
+  color: #50c878;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 7vw;
+  background-color: blue;
+}
+
+body {
+  background-color: #50c878;
+}
